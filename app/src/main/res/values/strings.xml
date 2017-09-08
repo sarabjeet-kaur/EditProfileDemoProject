@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EditProfileDemoProject</string>
+    <string name="toolbar_title">Edit Profile</string>
+    <string name="update_password">Update Password</string>
+    <string name="first_name">First Name</string>
+    <string name="fill_field">Please Fill Field</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_mobile">Invalid Contact Number</string>
+    <string name="invalid_pincode">Invalid Pincode</string>
+    <string name="alert_title">GPS Setting</string>
+    <string name="alert_message">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="alert_positive_button">Setting</string>
+    <string name="alert_cancel_button">Cancel</string>
+    <string name="select_image">Please Select Image</string>
+    <string name="connectivity_failure">Internet Connectivity Failure</string>
+    <string name="select_photo">Please Select photo</string>
+
+
+</resources>
